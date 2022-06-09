@@ -7,4 +7,3 @@ YourVariableHere = _____ - a variable
 int() - turns stuff into integer(whole number)
 
 type() - tells us what the type of the object is. e.g: string, integer
-
