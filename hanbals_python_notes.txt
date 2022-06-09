@@ -1,0 +1,10 @@
+print() - prints something in console/terminal
+
+input() - python version of prompt() from js
+
+YourVariableHere = _____ - a variable
+
+int() - turns stuff into integer(whole number)
+
+type() - either returns the type of the object or returns a new type object based on the arguments passed.
+
